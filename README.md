@@ -1,3 +1,4 @@
 # myfirst-repo
 This is my first repository on git
-author - Prince Singh
+<br>
+<b><i>author - Prince Singh</i></b>
